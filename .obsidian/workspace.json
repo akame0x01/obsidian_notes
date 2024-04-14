@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b11e3f05213bfba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08d1ba1045c51ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6489ea7ee2a4b8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routine_to_get_better_on_cs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd9af374e2996b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/Port Forwarding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0cbe38196542ebb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "427da8e0ba59597d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/Networks Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f013061d87694c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7134d8f515e6b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669704132237a38f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae09f42faf4f37d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cd6d40cdd00e99c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c30a7162858e2f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22379505e6b63fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a59d51a1fc9417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Routine_to_get_better_on_cs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a40cbcade716a800",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Routine_to_get_better_on_cs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff2e6c2f7b27e6bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8186c7848d83f3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Routine_to_get_better_on_cs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6489ea7ee2a4b8e4",
+  "lastOpenFiles": [
+    "lacks_on_my_knowledge.md",
+    "Routine_to_get_better_on_cs.md",
+    "Network/Basic concepts.md",
+    "Novo Documento de Texto.txt",
+    "Network/Port Forwarding.md",
+    "Network/Networks Introduction.md",
+    "Network/CRC And Hashing Checks.md",
+    "Network/attachments/Pasted image 20240413152000.png",
+    "read_team_cloud_course/info.png",
+    "Untitled.canvas",
+    "Malwares",
+    "Network/attachments/Untitled.png",
+    "Network/attachments/Untitled 1.png",
+    "Network/attachments",
+    "Network/attachments/Untitled 3.png",
+    "Network/attachments/Untitled 2.png",
+    "port forwarding 9f996a16431245c9a6ee41432db13d59",
+    "Network",
+    "University/Networks again.md",
+    "Malwares/hta_malware_and_payload_delivery.md",
+    "University/networks_and_models_principles.md]",
+    "University/network_and_osi_model.txt",
+    "Welcome.md",
+    "lacks_on_my_knowledge.lst",
+    "hta_malware_and_payload_delivery.txt",
+    "University/network_stuff/network_and_osi_model.txt"
+  ]
+}

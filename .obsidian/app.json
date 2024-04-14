@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/attachments "
+}

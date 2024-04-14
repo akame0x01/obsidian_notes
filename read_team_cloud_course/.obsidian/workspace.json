@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "bd2d860507b5e65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5e2cb1908991d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "911cf9d6263c9b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/timekorp/writeup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b46f4d24553d70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41474d56d83bded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1772bb5b8585b856",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4af35a343f4c6e07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#timework",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1107648fb0f13e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e70115c13371693",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad90f75af06282b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79fe85c0633da4ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web/timekorp/writeup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4791fb6e6a23e1ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "web/timekorp/writeup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35511446bb302b1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f645cd41c1977154",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "web/timekorp/writeup.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4af35a343f4c6e07",
+  "lastOpenFiles": [
+    "web/timekorp/attachments/Pasted image 20240311134615.png",
+    "web/timekorp/attachments/Pasted image 20240309225330.png",
+    "web/timekorp/attachments/Pasted image 20240309225045.png",
+    "web/timekorp/attachments/Pasted image 20240309224937.png",
+    "web/timekorp/attachments/Pasted image 20240309224826.png",
+    "web/timekorp/attachments/Pasted image 20240309224720.png",
+    "web/timekorp/attachments",
+    "web/flag_command/writeup.md",
+    "web/timekorp/writeup.md",
+    "web/timekorp",
+    "web/flag_command/attachments/Pasted image 20240309191339.png",
+    "web/flag_command/attachments/Pasted image 20240309191030.png",
+    "web/flag_command/attachments/Pasted image 20240309190502.png",
+    "web/flag_command/attachments/Pasted image 20240309183801.png",
+    "web/flag_command/attachments/Pasted image 20240309183737.png",
+    "web/flag_command/attachments"
+  ]
+}
