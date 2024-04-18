@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "spellcheck": true,
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
@@ -7,5 +7,5 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/attachments "
+  "attachmentFolderPath": "./attachments"
 }

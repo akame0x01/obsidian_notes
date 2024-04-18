@@ -47,6 +47,7 @@ HTTP keep-alive, it can make you misinterpret because of the name, this connecti
 
 Take a look at this article if you want to see why you should not use TCP and UDP connections at the same time, roughly, TCP has that little thing with sync and yours sliding window to send packages and how it affect the performance while sending packages, read this little article with you want to know more about it. [article-about-tcp-and-udp-connections](https://web.archive.org/web/20160103125117/https://www.isoc.org/inet97/proceedings/F3/F3_1.HTM#ref1)
 
+
 ~ need to talk about sliding windows before talk about selective repeat and go-back-n technique.
 ~ explain 3 way handshake.
 ~ CRC(another note).
@@ -57,3 +58,8 @@ starting:
 syn(seq number client) -> syn+ack(seq number server and length) -> ack(client)
 finishing:
 ack+fin(client) -> ack(server)
+
+About the Network Layer, if you want to get a better understanding about how IPs are assigned, Public and Private Networks, how NAT works and more about these stuff, read this note linked below. Here, in this note, I'm going to focus more on protocols and more low level concepts. [Basic concepts](Network/Basic%20concepts.md)
+
+## Network Layer and its protocols 
+
