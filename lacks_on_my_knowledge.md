@@ -1,4 +1,0 @@
-- CRSF and Tokens/Cookies vulnerabilities (PortSwigger can be a good source to see this)
-- Cryptography 
-- format string and some binary exploitation vulnerabilities
-- https/https headers and Param Miner in Burp -> IntroToBurp in picoctf2024 too

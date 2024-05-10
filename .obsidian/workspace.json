@@ -6,46 +6,14 @@
       {
         "id": "e08d1ba1045c51ad",
         "type": "tabs",
-        "dimension": 45.76372315035799,
         "children": [
-          {
-            "id": "6489ea7ee2a4b8e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/Basic concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "534c454cab955bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Networks Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "42747d3fbc91b8be",
-        "type": "tabs",
-        "dimension": 54.23627684964201,
-        "children": [
-          {
-            "id": "66355868a7c7c75a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/Basic concepts.md",
+                "file": "network/Addressing in networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c30a7162858e2f1",
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Basic concepts.md",
+                "file": "network/Addressing in networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Basic concepts.md",
+                "file": "network/Addressing in networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Basic concepts.md"
+                "file": "network/Addressing in networks.md"
               }
             }
           }
@@ -179,37 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66355868a7c7c75a",
+  "active": "534c454cab955bd9",
   "lastOpenFiles": [
-    "Network/Networks Introduction.md",
-    "Network/Basic concepts.md",
-    "Network/Port Forwarding.md",
-    "Network/attachments/Pasted image 20240416111701.png",
+    "interesting_topics.md",
+    "routine.md",
+    "computer_architecture/full revision note.md",
+    "lacks_on_my_knowledge.md",
+    "network/Routing Algorithms.md",
+    "network/Port Forwarding.md",
+    "network/Models, Architectures and basic concepts.md",
+    "network/Addressing in networks.md",
+    "computer_architecture",
+    "read_team_cloud_course/info.png",
+    "network/CRC and errors algorithms.md",
+    "malware/hta_malware_and_payload_delivery.md",
+    "network/attachments/Pasted image 20240507092755.png",
+    "network/attachments/Pasted image 20240507083634.png",
+    "network/attachments/Pasted image 20240430135359.png",
+    "network/attachments/Pasted image 20240416111701.png",
     "Network/Pasted image 20240416111639.png",
     "Network/Pasted image 20240416111618.png",
     "Network/Pasted image 20240416111616.png",
-    "Network/attachments/Pasted image 20240416111518.png",
-    "Network/CRC And Hashing Checks.md",
-    "Routine_to_get_better_on_cs.md",
-    "lacks_on_my_knowledge.md",
+    "network/attachments/Pasted image 20240416111518.png",
     "Novo Documento de Texto.txt",
-    "Network/attachments/Pasted image 20240413152000.png",
-    "read_team_cloud_course/info.png",
+    "network/attachments/Pasted image 20240413152000.png",
     "Untitled.canvas",
-    "Malwares",
-    "Network/attachments/Untitled.png",
-    "Network/attachments/Untitled 1.png",
-    "Network/attachments",
-    "Network/attachments/Untitled 3.png",
+    "malware",
+    "network/attachments",
     "port forwarding 9f996a16431245c9a6ee41432db13d59",
-    "Network",
+    "network",
     "University/Networks again.md",
-    "Malwares/hta_malware_and_payload_delivery.md",
     "University/networks_and_models_principles.md]",
     "University/network_and_osi_model.txt",
     "Welcome.md",
     "lacks_on_my_knowledge.lst",
-    "hta_malware_and_payload_delivery.txt",
-    "University/network_stuff/network_and_osi_model.txt"
+    "hta_malware_and_payload_delivery.txt"
   ]
 }

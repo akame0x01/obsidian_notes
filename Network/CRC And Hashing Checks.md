@@ -1,1 +1,0 @@
-In this note I will talk about the CRC Algorithm used to check if an error occurred in a data package and some other Algorithms used to fix and find errors. :)

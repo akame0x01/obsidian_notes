@@ -1,7 +1,7 @@
 
 In  this note I'm gonna talking about a Port Forwarding technique, this technique allows us to make a privilege escalation using open ports that are running only in local network ,thus we could bypass firewalls and a blocked connections. That means it can be useful to use a an network you are not into if you have access to a machine that are into this network.  This is technique, you should take a read in these two notes before reaching that one. ~
-[Basic concepts](Network/Basic%20concepts.md)
-[Networks Introduction](Network/Networks%20Introduction.md)
+[Addressing in networks](network/Addressing%20in%20networks.md)
+[Models, Architectures and basic concepts](network/Models,%20Architectures%20and%20basic%20concepts.md)
 I'm using this blog as source so you should take a look at them as well.
  [juggernaut/port-forwarding](https://juggernaut-sec.com/port-forwarding-lpe/);
 [infosec-writeup](https://infosecwriteups.com/gain-access-to-an-internal-machine-using-port-forwarding-penetration-testing-518c0b6a4a0e);
@@ -29,7 +29,7 @@ you is this dude with hat(lmao) and you want to implant a malware inside interna
 > internal:supersecurepassword
 > 
 
-![Untitled](Network/attachments/Untitled.png)
+![Untitled](network/attachments/Untitled.png)
 
 so, let me explain this image. First the bastion, the bastion has  two network interfaces and with the one he can access the public network and communicate with another devices(like you) in this public network, and with the other he can communicate only with internal server.
 
@@ -44,7 +44,7 @@ so now, you did some scans in the bastion server and saw that one service called
 
  
 
-![Untitled](Network/attachments/Untitled%201.png)
+![Untitled](network/attachments/Untitled%201.png)
 
 and you come to me and ask me an question: what the fuck does ssh means?
 
@@ -64,7 +64,7 @@ and the password? Yeah you’ll insert it after press Enter and the ssh asked yo
 
  
 
-![Untitled](Network/attachments/Untitled%202.png)
+![Untitled](network/attachments/Untitled%202.png)
 
 so now we are into bastion machine, look at these ips.
 
@@ -95,7 +95,7 @@ $ **ssh -D 9050 -p2222 -Nf bastion@172.17.0.2**
 
 -f: run in background.
 
-![Untitled](Network/attachments/Untitled%203.png)
+![Untitled](network/attachments/Untitled%203.png)
 
 and now, as you can see in the terminal, the nmap scan found port 2222 in internal server. And in the output you can see the end-points of the scan. Starts in [localhost:9050](http://localhost:9050) goes through the chain(bastion) -<><>- and reaches the internal server 10.10.10.3.
 
