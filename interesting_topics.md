@@ -15,4 +15,10 @@ https://www.redhat.com/en/blog/security-flaws-caused-compiler-optimizations -> c
 https://cstheory.stackexchange.com/questions/19499/nonlinear-optimization-using-parallel-input-output -> dont know but looks interesting 
 https://cstheory.stackexchange.com/questions/10688/machine-learning-for-code-and-compiler-optimization -> machine learning with code 
 https://en.wikipedia.org/wiki/Bootstrapping_%28compilers%29 -> bootstrapping 
-https://norasandler.com/2017/11/29/Write-a-Compiler.html -> writing a C compiler
+https://norasandler.com/2017/11/29/Write-a-Compiler.html -> writing a compiler
+https://github.com/chip-red-pill/glm-ucode -> from hacknlearn i dont know what is this exactly 
+https://github.com/carld/compiler-tutorial/blob/master/11-ghuloum.pdf -> writing a compiler :D 
+https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/ -> RE in rust language
+https://wubingzheng.github.io/build-lua-in-rust/en/ -> lua interpreter in rust 
+https://cybertalents.com/blog/what-is-a-security-researcher-how-can-i-become-one -> cyber security research : ) 
+https://www.youtube.com/watch?v=ixn5OygxBY4 -> linux kernel vuln n writeup 

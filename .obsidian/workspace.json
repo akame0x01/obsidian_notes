@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Addressing in networks.md",
+                "file": "interesting_topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Addressing in networks.md",
+                "file": "interesting_topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Addressing in networks.md",
+                "file": "interesting_topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Addressing in networks.md"
+                "file": "interesting_topics.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "534c454cab955bd9",
   "lastOpenFiles": [
+    "network/Routing Algorithms.md",
     "interesting_topics.md",
+    "network/Addressing in networks.md",
     "routine.md",
     "computer_architecture/full revision note.md",
     "lacks_on_my_knowledge.md",
-    "network/Routing Algorithms.md",
     "network/Port Forwarding.md",
     "network/Models, Architectures and basic concepts.md",
-    "network/Addressing in networks.md",
     "computer_architecture",
     "read_team_cloud_course/info.png",
     "network/CRC and errors algorithms.md",
