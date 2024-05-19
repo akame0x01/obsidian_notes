@@ -22,3 +22,7 @@ https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/ ->
 https://wubingzheng.github.io/build-lua-in-rust/en/ -> lua interpreter in rust 
 https://cybertalents.com/blog/what-is-a-security-researcher-how-can-i-become-one -> cyber security research : ) 
 https://www.youtube.com/watch?v=ixn5OygxBY4 -> linux kernel vuln n writeup 
+https://academic.oup.com/cybersecurity/article/10/1/tyad023/7504935?searchresult=1 -> apt paper :) 
+
+
+https://github.com/MitchHS/Discord-DLL-Hijacking -> Discord DLL hijacking

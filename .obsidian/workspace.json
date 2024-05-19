@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interesting_topics.md",
+                "file": "malware/Discord DLL Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interesting_topics.md",
+                "file": "malware/Discord DLL Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interesting_topics.md",
+                "file": "malware/Discord DLL Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interesting_topics.md"
+                "file": "malware/Discord DLL Hijacking.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "534c454cab955bd9",
   "lastOpenFiles": [
-    "network/Routing Algorithms.md",
     "interesting_topics.md",
-    "network/Addressing in networks.md",
+    "malware/Discord DLL Hijacking.md",
     "routine.md",
+    "attachments/Pasted image 20240517102919.png",
+    "attachments",
+    "network/Routing Algorithms.md",
+    "network/Addressing in networks.md",
     "computer_architecture/full revision note.md",
     "lacks_on_my_knowledge.md",
     "network/Port Forwarding.md",
@@ -169,7 +172,6 @@
     "Network/Pasted image 20240416111616.png",
     "network/attachments/Pasted image 20240416111518.png",
     "Novo Documento de Texto.txt",
-    "network/attachments/Pasted image 20240413152000.png",
     "Untitled.canvas",
     "malware",
     "network/attachments",
@@ -179,7 +181,6 @@
     "University/networks_and_models_principles.md]",
     "University/network_and_osi_model.txt",
     "Welcome.md",
-    "lacks_on_my_knowledge.lst",
-    "hta_malware_and_payload_delivery.txt"
+    "lacks_on_my_knowledge.lst"
   ]
 }
